@@ -1,0 +1,10 @@
+mnist.ipynb
+mnist.py
+nn.png
+old/*
+.vscode/*
+__pycache__/*
+.ipynb_checkpoints/*
+practise*
+untitle*
+web*
